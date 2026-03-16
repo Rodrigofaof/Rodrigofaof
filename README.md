@@ -19,7 +19,7 @@ I am a Data Analyst focused on transforming complex datasets into actionable bus
 | **Visualization** | Power BI, Metabase, Excel | Dashboarding, Storytelling, Prescriptive Insights |
 | **Advanced Modeling**| Scikit-learn, Python | Predictive (Regression), Multivariate Analysis |
 
-### 🧠 Analytical Impact Matrix
+### 🧠 Biased Analytical Impact Matrix
 <p align="left">
   <a href="https://github.com/seu-usuario">
     <img src="https://kane-f-capsule-render.vercel.app/api?type=rect&color=0077B5&text=Correlation:%20Analytical%20Insights%20vs%20Business%20Growth%20=%200.98&fontSize=25" />
