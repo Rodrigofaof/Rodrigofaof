@@ -22,7 +22,7 @@ I am a Data Analyst focused on transforming complex datasets into actionable bus
 ### 📉 My GitHub Activity Data
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=6&theme=material-palenight" alt="Top Languages Chart" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigofaof&layout=compact&langs_count=6&theme=material-palenight" alt="Top Languages Chart" />
 </p>
 
 ---
