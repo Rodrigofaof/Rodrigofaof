@@ -29,4 +29,4 @@ I am a Data Analyst focused on transforming complex datasets into actionable bus
 ---
 
 ### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rodrigo-orlandi-855351160/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-orlandi-855351160/)
