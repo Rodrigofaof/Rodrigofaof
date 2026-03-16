@@ -21,7 +21,7 @@ I am a Data Analyst focused on transforming complex datasets into actionable bus
 
 ### 🧠 Biased Analytical Impact Matrix
 <p align="left">
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/rodrigofaof">
     <img src="https://kane-f-capsule-render.vercel.app/api?type=rect&color=0077B5&text=Correlation:%20Analytical%20Insights%20vs%20Business%20Growth%20=%200.98&fontSize=25" />
   </a>
 </p>
