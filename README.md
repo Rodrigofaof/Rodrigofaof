@@ -10,7 +10,7 @@
 
 I am a Data Analyst focused on transforming complex datasets into actionable business intelligence. I specialize in building data pipelines and statistical models that bridge the gap between raw data and prescriptive insights.
 
-### 📊 Skill Matrix & Specializations
+### Skill Matrix & Specializations
 
 | Domain | Tools & Tech | Key Methodologies |
 | :--- | :--- | :--- |
@@ -19,7 +19,7 @@ I am a Data Analyst focused on transforming complex datasets into actionable bus
 | **Visualization** | Power BI, Metabase, Excel | Dashboarding, Storytelling, Prescriptive Insights |
 | **Advanced Modeling**| Scikit-learn, Python | Predictive (Regression), Multivariate Analysis |
 
-### 🧠 Biased Analytical Impact Matrix
+### Biased Analytical Impact Matrix
 
 | Metric | Analytical Suggestions | Beneficial Decisions | Business Impact |
 | :--- | :---: | :---: | :---: |
